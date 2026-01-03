@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAFAFA;
+    margin: 0;
+    padding: 20px;
+    color: #333333;
+}
+.btn {
+    background-color: cyan;
+    color: #FF7043;
+    padding: 10px;
+    text-align: center;
+    
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid purple;
+    border-radius: 10px;
+}
+
+.container {
+    border: 5px solid aquamarine;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: greenyellow;
+}
+
+p {
+    font-size: 18px;
+}
