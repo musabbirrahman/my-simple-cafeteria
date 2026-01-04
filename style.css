@@ -5,7 +5,7 @@ body {
     padding: 20px;
     color: #333333;
 }
-.btn {
+/* .btn {
     background-color: cyan;
     color: #FF7043;
     padding: 10px;
@@ -15,7 +15,7 @@ body {
     font-size: 16px;
     border: 1px solid purple;
     border-radius: 10px;
-}
+} */
 
 .container {
     border: 5px solid aquamarine;
@@ -57,4 +57,13 @@ img {
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: orange;
+}
+a:active {
+    color: green;
 }
